@@ -6,5 +6,5 @@ v  Multithreaded-Server-Architecture-with-Gos
 #### Computer Science - PUCRS
 #### 2019/2
 
-**Débora**  a
+**Débora Fritscher**  
 **Marcelo Drumm**  
